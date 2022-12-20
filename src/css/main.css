@@ -1,0 +1,15 @@
+:root{
+    --primary-color:yellow;
+    --secondary-color:black;
+}
+
+.lift{
+    height: 100px;
+    width:50px;
+}
+
+.floor{
+    width:100%;
+    height: 8px;
+
+}
